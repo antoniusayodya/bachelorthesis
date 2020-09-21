@@ -1,5 +1,2 @@
-# dokumentasiskripsi
-Code documentation of Bachelor's Degree Thesis
-The xls file taken from the initial questionnaire.
-Coded using jupyter lab in python 3.6.7.
-
+# BACHELOR THESIS PROJECT DOCUMENTATION
+The documentation contains several documentation. It consist of the processed data to be standardized, the main questionnaire and the answer in "spreadsheet_skripsi.csv".
